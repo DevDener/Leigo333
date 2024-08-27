@@ -3,5 +3,6 @@ const leigo333 = {
    ceu: azul,
    grama: verde,
    agua: azul,
-   terra: marrom
+   terra: marrom,
+   nuvem: branca
 }
